@@ -5,7 +5,6 @@ class parseCSV_library {
 /*
 
 	Class: parseCSV 
-	http://code.google.com/p/parsecsv-for-php/
 
 	Code Examples
 	----------------
